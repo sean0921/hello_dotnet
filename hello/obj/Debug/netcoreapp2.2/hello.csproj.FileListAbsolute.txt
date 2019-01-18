@@ -1,0 +1,11 @@
+/home/r2/hello_csharp/hello/bin/Debug/netcoreapp2.2/hello.deps.json
+/home/r2/hello_csharp/hello/bin/Debug/netcoreapp2.2/hello.runtimeconfig.json
+/home/r2/hello_csharp/hello/bin/Debug/netcoreapp2.2/hello.runtimeconfig.dev.json
+/home/r2/hello_csharp/hello/bin/Debug/netcoreapp2.2/hello.dll
+/home/r2/hello_csharp/hello/bin/Debug/netcoreapp2.2/hello.pdb
+/home/r2/hello_csharp/hello/obj/Debug/netcoreapp2.2/hello.csprojAssemblyReference.cache
+/home/r2/hello_csharp/hello/obj/Debug/netcoreapp2.2/hello.csproj.CoreCompileInputs.cache
+/home/r2/hello_csharp/hello/obj/Debug/netcoreapp2.2/hello.AssemblyInfoInputs.cache
+/home/r2/hello_csharp/hello/obj/Debug/netcoreapp2.2/hello.AssemblyInfo.cs
+/home/r2/hello_csharp/hello/obj/Debug/netcoreapp2.2/hello.dll
+/home/r2/hello_csharp/hello/obj/Debug/netcoreapp2.2/hello.pdb
